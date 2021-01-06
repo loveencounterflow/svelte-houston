@@ -1,10 +1,19 @@
+
+
+
 # Svelte Houston: Push Button Assemblies
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Svelte Houston: Blinky Push Button Assemblies](#svelte-houston-blinky-push-button-assemblies)
+  - [Assembly](#assembly)
+  - [States](#states)
+  - [Layout](#layout)
+  - [Inspiration](#inspiration)
+- [component-template](#component-template)
+  - [Setting up](#setting-up)
+  - [Consuming components](#consuming-components)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
