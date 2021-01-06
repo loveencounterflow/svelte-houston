@@ -10,9 +10,9 @@
     "prepublishOnly": "npm run build"
   },
   "devDependencies": {
-    "@rollup/plugin-node-resolve": "^9.0.0",
-    "rollup": "^2.0.0",
-    "rollup-plugin-svelte": "^6.0.0",
+    "@rollup/plugin-node-resolve": "^11.0.1",
+    "rollup": "^2.36.1",
+    "rollup-plugin-svelte": "^7.0.0",
     "svelte": "^3.0.0"
   },
   "keywords": [
@@ -25,7 +25,7 @@
     "dist"
   ],
   "dependencies": {
-    "intertype": "file:.yalc/intertype",
-    "mudom": "file:.yalc/mudom"
+    "intertype": "^7.6.3",
+    "mudom": "^0.2.1"
   }
 }
