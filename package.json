@@ -1,5 +1,7 @@
 {
-  "name": "SvelteComponent",
+  "name": "svelte-houston",
+  "description": "Push Button Assemblies",
+  "version": "0.0.0",
   "svelte": "src/index.js",
   "module": "dist/index.mjs",
   "main": "dist/index.js",
@@ -14,7 +16,9 @@
     "svelte": "^3.0.0"
   },
   "keywords": [
-    "svelte"
+    "svelte",
+    "components",
+    "buttons"
   ],
   "files": [
     "src",
