@@ -23,5 +23,9 @@
   "files": [
     "src",
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "intertype": "file:.yalc/intertype",
+    "mudom": "file:.yalc/mudom"
+  }
 }

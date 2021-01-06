@@ -1,0 +1,14 @@
+{
+  "version": "v1",
+  "packages": {
+    "mudom": {
+      "signature": "3e5a48ecb5621aa622685ca432ded34b",
+      "file": true,
+      "replaced": "^0.2.1"
+    },
+    "intertype": {
+      "signature": "3a7688e945a4140305f26afa953266d1",
+      "file": true
+    }
+  }
+}
