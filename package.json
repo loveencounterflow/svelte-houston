@@ -25,7 +25,9 @@
     "dist"
   ],
   "dependencies": {
+    "coffeescript": "^2.5.1",
     "intertype": "^7.6.3",
-    "mudom": "^0.2.1"
+    "mudom": "^0.2.1",
+    "svelte-preprocess": "^4.6.1"
   }
 }
